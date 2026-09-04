@@ -2,7 +2,7 @@
   <img src="resources/icon.svg" alt="Quick File Hasher Logo" width="128">
 </p>
 <h1 align="center">Quick File Hasher</h1>
-<p align="center"><em>Verify your files with speed and confidence.</em></p>
+<p align="center"><em>Verify your files with speed and confidence!</em></p>
 
 Quick File Hasher is a modern Nautilus (GNOME Files) extension and standalone GTK4/libadwaita application for computing file hashes, featuring a polished UI and seamless clipboard integration.
 
